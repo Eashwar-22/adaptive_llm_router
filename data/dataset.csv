@@ -1,0 +1,601 @@
+prompt,label
+Fix the typo: seperate,0
+Generate a Python class to manage patient medical records,1
+"Hello, how are you?",0
+Explain the concept of relativity in physics,1
+Translate 'hello' to Spanish,0
+Create a legal contract for a software development project,1
+What is the capital of France?,0
+Develop a machine learning model to predict stock prices,1
+Write a poem about nature,1
+What is 2 + 2?,0
+Design a database schema for an e-commerce platform,1
+How do you say 'goodbye' in French?,0
+Analyze the themes in Shakespeare's Romeo and Juliet,1
+What is the definition of mitochondria?,0
+Create a mobile app to track personal finances,1
+Write a short story about a character who learns a new skill,1
+What is the chemical symbol for gold?,0
+Develop a algorithm to solve the traveling salesman problem,1
+Explain the concept of blockchain technology,1
+How do you say 'thank you' in Chinese?,0
+Generate a report on the impact of climate change on global economies,1
+What is the largest planet in our solar system?,0
+Design a user interface for a web application,1
+Write a script for a video on social media marketing,1
+What is the formula for calculating the area of a circle?,0
+Create a program to simulate a chatbot conversation,1
+Analyze the benefits and drawbacks of a vegan diet,1
+How do you say 'yes' in German?,0
+Develop a plan for a marketing campaign to launch a new product,1
+Explain the concept of artificial intelligence,1
+What is the smallest country in the world?,0
+Generate a 3D model of a building using CAD software,1
+Write a recipe for a traditional Italian dish,1
+What is the definition of photosynthesis?,0
+Create a schedule for a project with multiple tasks and deadlines,1
+How do you say 'sorry' in Japanese?,0
+Develop a strategy for improving customer service,1
+Explain the concept of quantum mechanics,1
+What is the largest living species of lizard?,0
+Design a network architecture for a large enterprise,1
+Write a press release announcing a new product launch,1
+What is the formula for calculating the volume of a sphere?,0
+Create a virtual reality experience for a historical event,1
+Analyze the impact of social media on mental health,1
+How do you say 'hello' in Arabic?,0
+Develop a plan for a sustainable energy project,1
+Explain the concept of cryptography,1
+What is the definition of entropy?,0
+Generate a report on the state of the global economy,1
+Write a script for a podcast on science and technology,1
+What is the chemical symbol for silver?,0
+What is the largest planet in our solar system?,0
+Explain the concept of relativity in detailed mathematical terms,1
+"Hello, how are you?",0
+"Discuss the implications of AI on modern society, including economic, social, and ethical considerations",1
+What does DNA stand for?,0
+"Design a clinical trial to evaluate the efficacy of a new cancer treatment, including participant selection, randomization, and outcome measures",1
+Translate 'hello' to Spanish,0
+"Analyze the themes of existentialism in the works of Jean-Paul Sartre and Martin Heidegger, and evaluate their relevance to contemporary philosophy",1
+What is the capital of France?,0
+"Develop a comprehensive cybersecurity plan for a small business, including network security, data encryption, and employee training",1
+Write a short poem about nature,0
+Explain the concept of quantum entanglement and its potential applications in quantum computing,1
+What is the definition of a meme?,0
+"Create a detailed lesson plan for teaching high school students about the American Revolution, including primary sources and interactive activities",1
+How do you say 'goodbye' in French?,0
+"Design a machine learning model to predict patient outcomes based on electronic health records, including feature engineering and model evaluation",1
+What is the largest living species of lizard?,0
+"Evaluate the economic benefits and drawbacks of implementing a universal basic income, including its potential impact on poverty, inequality, and economic growth",1
+Write a simple program in Python to print 'Hello World',0
+"Develop a comprehensive marketing strategy for a new product launch, including social media, advertising, and public relations",1
+What is the chemical symbol for gold?,0
+"Analyze the historical context and cultural significance of the works of William Shakespeare, including their relevance to contemporary literature and theater",1
+How do you calculate the area of a triangle?,0
+"Design an experiment to test the effect of climate change on plant growth, including data collection and statistical analysis",1
+What is the definition of a black hole?,0
+"Create a detailed financial plan for a startup company, including budgeting, forecasting, and fundraising",1
+Write a short story about a character who learns a new skill,0
+Explain the concept of blockchain technology and its potential applications in finance and supply chain management,1
+What is the largest state in the United States by population?,0
+"Develop a comprehensive plan for disaster response and recovery, including emergency preparedness, search and rescue, and long-term rebuilding",1
+How do you say 'thank you' in German?,0
+"Design a study to investigate the relationship between social media use and mental health in adolescents, including survey design and data analysis",1
+What is the definition of a pandemic?,0
+"Create a detailed business plan for a sustainable energy company, including market analysis, financial projections, and operational strategy",1
+Write a poem about love,0
+Explain the concept of gene editing and its potential applications in medicine and agriculture,1
+What is the chemical symbol for silver?,0
+"Develop a comprehensive plan for urban planning and development, including transportation, housing, and public spaces",1
+How do you calculate the circumference of a circle?,0
+"Design an experiment to test the effect of exercise on cognitive function in older adults, including data collection and statistical analysis",1
+What is the definition of a fossil?,0
+"Create a detailed plan for a charity event, including fundraising, marketing, and logistics",1
+Write a short script for a conversation between two friends,0
+"Explain the concept of artificial intelligence and its potential applications in healthcare, finance, and education",1
+What is the largest city in the world by population?,0
+"Develop a comprehensive plan for environmental sustainability, including renewable energy, waste reduction, and conservation",1
+How do you say 'yes' in Italian?,0
+"Design a study to investigate the relationship between nutrition and mental health, including survey design and data analysis",1
+What is the definition of a volcano?,0
+"Create a detailed plan for a business expansion, including market research, financial projections, and operational strategy",1
+Write a short story about a character who overcomes a challenge,0
+"Explain the concept of virtual reality and its potential applications in education, entertainment, and healthcare",1
+What is the chemical symbol for copper?,0
+"Develop a comprehensive plan for a community development project, including needs assessment, project design, and evaluation",1
+How do you calculate the volume of a rectangular prism?,0
+"Design an experiment to test the effect of music on cognitive function in children, including data collection and statistical analysis",1
+What is the definition of a solar eclipse?,0
+"Create a detailed plan for a marketing campaign, including social media, advertising, and public relations",1
+Write a poem about hope,0
+Explain the concept of renewable energy and its potential applications in reducing greenhouse gas emissions,1
+"Hello, how are you?",0
+Write a 10-page research paper on the societal impact of AI on employment,1
+What's the definition of photosynthesis?,0
+Generate a Python script to visualize COVID-19 cases globally using matplotlib,1
+"Can you translate 'Hello, my name is John' to Spanish?",0
+Explain the concept of dark matter in astrophysics and its implications on cosmology,1
+What's the capital of France?,0
+Develop a machine learning model using scikit-learn to predict stock prices based on historical data,1
+I'd like to know the symptoms of diabetes,0
+Create a comprehensive business plan for a startup in the renewable energy sector,1
+How do I make a grilled cheese sandwich?,0
+Derive the equation for the area of a circle and explain its application in geometry,1
+What's the best way to learn French?,0
+Analyze the themes of love and betrayal in Shakespeare's Romeo and Juliet,1
+Can you write a short poem about summer?,0
+Design a database schema for an e-commerce platform using MySQL,1
+Explain the concept of supply and demand in economics,1
+What's the chemical formula for water?,0
+Develop a JavaScript application to simulate a banking system with user authentication,1
+Can you recommend a good restaurant in New York?,0
+Discuss the ethical implications of gene editing technologies like CRISPR,1
+What's the definition of biodiversity?,0
+Create a statistical model to predict the outcome of a football game based on team performance,1
+How do I plant a tree?,0
+Explain the concept of quantum entanglement and its applications in physics,1
+Can you translate 'I love reading books' to German?,0
+Design a neural network architecture for image classification using TensorFlow,1
+What's the function of the human liver?,0
+Analyze the character development of Holden Caulfield in The Catcher in the Rye,1
+Can you write a joke about cats?,0
+Develop a mobile app for tracking personal finance using React Native,1
+Explain the concept of relativity and its implications on space-time,1
+What's the definition of a black hole?,0
+Create a marketing strategy for a new product launch in the tech industry,1
+Can you recommend a good book on self-improvement?,0
+Discuss the impact of climate change on global food security,1
+What's the chemical equation for combustion?,0
+Develop a chatbot using natural language processing techniques for customer support,1
+Can you explain the concept of blockchain and its applications?,1
+What's the definition of mitosis?,0
+Design an algorithm for solving the traveling salesman problem,1
+Can you write a short story about a character who discovers a hidden world?,1
+What's the function of the human brain?,0
+Analyze the themes of power and corruption in Macbeth,1
+Can you recommend a good podcast on science and technology?,0
+Develop a predictive model for forecasting weather patterns using machine learning techniques,1
+"Hi, how are you?",0
+Explain the concept of quantum entanglement in physics,1
+What is the capital of France?,0
+Draft a comprehensive business plan for a startup in the renewable energy sector,1
+Can you translate 'hello' into Spanish?,0
+Develop an algorithm for natural language processing to analyze patient reviews,1
+What is the definition of hypertension?,0
+Create a poem about the changing seasons,1
+What is the chemical symbol for gold?,0
+Design a neural network model for predicting stock prices,1
+How do you say 'goodbye' in German?,0
+Explain the legal implications of a non-disclosure agreement in employment law,1
+What is the formula for calculating the area of a circle?,0
+Develop a mobile application for tracking personal fitness goals,1
+What is the largest planet in our solar system?,0
+Discuss the ethical considerations of artificial intelligence in healthcare,1
+Can you write a short story about a character who learns a new skill?,1
+What is the definition of photosynthesis?,0
+Create a database schema for managing customer information,1
+How do you greeting someone in Japanese?,0
+Explain the concept of relativity in physics,1
+What is the most commonly used programming language?,0
+Develop a marketing strategy for a new product launch,1
+Can you explain the concept of supply and demand in economics?,1
+What is the formula for calculating the volume of a rectangular prism?,0
+Design an experiment to test the effectiveness of a new medication,1
+How do you say 'thank you' in Chinese?,0
+Discuss the impact of climate change on global food systems,1
+What is the definition of mitosis?,0
+Create a data visualization dashboard for analyzing sales trends,1
+Can you write a script for a short film about friendship?,1
+What is the chemical symbol for silver?,0
+Develop a machine learning model for predicting customer churn,1
+How do you greeting someone in Arabic?,0
+Explain the concept of blockchain technology,1
+What is the largest living species of lizard?,0
+Design a user interface for a web application,1
+Can you explain the concept of evolutionary biology?,1
+What is the formula for calculating the surface area of a sphere?,0
+Develop a comprehensive plan for disaster recovery and business continuity,1
+How do you say 'good morning' in Italian?,0
+Discuss the implications of privacy laws on data collection and usage,1
+What is the definition of synaptic plasticity?,0
+Create a virtual reality experience for educational purposes,1
+Can you write a song about heartbreak?,1
+What is the chemical symbol for copper?,0
+Develop a predictive maintenance model for industrial equipment,1
+How do you greeting someone in Portuguese?,0
+Explain the concept of game theory in economics,1
+What is the largest city in South America?,0
+Fix the typo: seperation,0
+Explain the concept of dark matter in cosmology,1
+"Hello, how are you?",0
+Write a Python program to simulate a banking system with user authentication and transaction history,1
+What is the capital of France?,0
+Analyze the implications of the 4th Amendment on digital privacy in the context of modern surveillance technology,1
+Translate 'hello' to Spanish,0
+Develop an algorithm to solve the Traveling Salesman Problem using genetic programming,1
+Define mitosis,0
+"Create a poem about the seasons, using metaphors and similes to describe their characteristics",1
+What is the chemical symbol for gold?,0
+Discuss the potential applications and risks of CRISPR gene editing technology in human medicine,1
+"Goodbye, see you later",0
+"Design a relational database schema for a social media platform, including user profiles and post interactions",1
+Solve for x: 2x + 5 = 11,0
+Write a short story about a character who discovers a hidden world within their own reflection,1
+What is the largest planet in our solar system?,0
+"Explain the concept of emergent behavior in complex systems, using examples from biology and sociology",1
+"Hello, what's your name?",0
+Implement a neural network in TensorFlow to classify handwritten digits from the MNIST dataset,1
+Define photosynthesis,0
+"Compose a sonata for solo piano, using a combination of traditional and experimental techniques",1
+What is the boiling point of water?,0
+"Discuss the ethical implications of using autonomous vehicles in urban environments, considering factors such as safety and job displacement",1
+How are you today?,0
+"Develop a mobile app for tracking personal finances, including budgeting and investment tools",1
+Solve for y: y - 3 = 7,0
+"Write a script for a conversation between two characters with opposing viewpoints on a controversial topic, exploring the nuances of their perspectives",1
+What is the smallest country in the world?,0
+"Analyze the impact of social media on mental health, considering factors such as self-comparison and online harassment",1
+Good morning,0
+"Create a 3D model of a fictional city, using a combination of architecture and urban planning principles",1
+Define ATP,0
+"Compose a musical piece for a film soundtrack, using a combination of orchestral and choral elements",1
+What is the largest living species of lizard?,0
+Discuss the potential applications and limitations of blockchain technology in supply chain management,1
+How do you spell 'accommodate'?,0
+"Develop an AI-powered chatbot for customer service, using natural language processing and machine learning algorithms",1
+Solve for z: z / 2 = 9,0
+"Write a philosophical essay on the nature of reality, exploring the relationships between perception, consciousness, and the external world",1
+What is the deepest part of the ocean?,0
+"Design a sustainable and environmentally-friendly system for managing waste in urban areas, considering factors such as recycling and composting",1
+Define RNA,0
+"Create a virtual reality experience for exploring historical sites, using a combination of 3D modeling and immersive storytelling techniques",1
+What is the capital of France?,0
+Analyze the implications of AI on modern healthcare systems and provide a detailed report,1
+"Hello, how are you?",0
+Develop a machine learning model to predict stock prices based on historical data,1
+What does FDA stand for?,0
+Create a poem about the beauty of nature and the impact of human activities on the environment,1
+Fix the typo: seperate,0
+Design an algorithm to solve the traveling salesman problem with a time complexity of O(n^2),1
+What is the definition of hypertension?,0
+Discuss the legal implications of data privacy in the context of social media platforms,1
+Translate 'hello' to Spanish,0
+Derive the equation for the area of a circle using integral calculus,1
+What is the chemical symbol for gold?,0
+Develop a web application using Django to manage user accounts and permissions,1
+What is the largest planet in our solar system?,0
+Write a short story about a character who discovers a hidden world within their own reflection,1
+Solve the equation: 2x + 5 = 11,0
+Analyze the pros and cons of using blockchain technology in supply chain management,1
+What is the definition of a neuron?,0
+Create a 3D model of a molecule using Blender and Python,1
+What is the most common type of cancer?,0
+Discuss the ethical implications of using AI in autonomous vehicles,1
+Fix the grammatical error: me and my friend,0
+Develop a natural language processing model to detect sentiment analysis in text data,1
+What is the largest living species of lizard?,0
+Write a script for a short film about a character who discovers a mysterious box with unknown contents,1
+Solve the inequality: x^2 + 4x + 4 > 0,0
+Analyze the impact of climate change on global food systems and propose potential solutions,1
+What is the definition of a black hole?,0
+Create a virtual reality experience using Unity to simulate a historical event,1
+What is the most common type of mental health disorder?,0
+Discuss the implications of quantum computing on modern cryptography,1
+Fix the typo: occurence,0
+Develop a reinforcement learning model to play a game of chess,1
+What is the definition of a gene?,0
+Create a data visualization dashboard using Tableau to analyze customer behavior,1
+What is the largest living species of mammal?,0
+Write a research paper on the applications of nanotechnology in medicine,1
+Solve the equation: x^2 - 4x + 4 = 0,0
+Analyze the pros and cons of using renewable energy sources in developing countries,1
+What is the definition of a fossil?,0
+Develop a mobile application using React Native to track personal fitness goals,1
+What is the most common type of infectious disease?,0
+Discuss the implications of artificial intelligence on modern education systems,1
+Fix the grammatical error: their coming over,0
+Create a chatbot using Python and NLTK to provide customer support,1
+What is the definition of a polymer?,0
+Write a poem about the beauty of space and the wonders of the universe,1
+Solve the inequality: x^2 - 4x + 4 <= 0,0
+Analyze the impact of social media on mental health and propose potential solutions,1
+What is the largest living species of bird?,0
+Develop a machine learning model to predict customer churn based on historical data,1
+"Hello, how are you?",0
+Calculate the derivative of x^3 + 2x^2 - 5x + 1,1
+What is the capital of France?,0
+Explain the concept of relativity in physics,1
+Write a short poem about nature,1
+What is the definition of hypertension?,0
+Create a simple chatbot using Python,1
+What are the symptoms of diabetes?,0
+Analyze the themes in Shakespeare's Romeo and Juliet,1
+Translate 'hello' to Spanish,0
+Develop a machine learning model to predict stock prices,1
+What is the chemical formula for water?,0
+Design a database schema for a social media platform,1
+How do you treat a broken arm?,0
+Write a program to solve the traveling salesman problem,1
+What is the definition of artificial intelligence?,0
+Conduct a legal analysis of contract law,1
+Generate a random password,0
+Create a 3D model of a house using Blender,1
+What are the benefits of meditation?,0
+Develop a web application using React and Node.js,1
+Calculate the area of a circle with radius 5cm,0
+Analyze the impact of climate change on global economies,1
+Write a short story about space exploration,1
+What is the definition of a neuron?,0
+Design an algorithm to solve the knapsack problem,1
+Translate 'goodbye' to French,0
+Conduct a statistical analysis of a dataset,1
+What is the chemical structure of DNA?,0
+Develop a natural language processing model to classify text,1
+How do you treat a headache?,0
+Create a mobile app using Java and Android Studio,1
+What is the definition of photosynthesis?,0
+Write a script to automate a task using Python,1
+What are the symptoms of the flu?,0
+Design a neural network to recognize images,1
+Calculate the volume of a cube with side length 4cm,0
+Analyze the themes in a novel by Jane Austen,1
+Generate a random joke,0
+Develop a recommendation system using collaborative filtering,1
+What is the definition of a black hole?,0
+Create a video game using Unity and C#,1
+How do you treat a burn?,0
+Conduct a financial analysis of a company,1
+What is the chemical formula for oxygen?,0
+Design an experiment to test a scientific hypothesis,1
+Write a program to solve the Sudoku puzzle,1
+What is the definition of a vaccine?,0
+Develop a chatbot using deep learning,1
+Calculate the perimeter of a rectangle with length 5cm and width 3cm,0
+Analyze the impact of social media on mental health,1
+What is the capital of France?,0
+Develop a comprehensive Python script to analyze stock market trends using machine learning algorithms,1
+"Hello, how are you?",0
+Explain the legal implications of intellectual property law on software development,1
+What does DNA stand for?,0
+"Create a detailed poem about the changing seasons, incorporating vivid imagery and metaphors",1
+What is 2 + 2?,0
+Design a neural network architecture to classify medical images for disease diagnosis,1
+How do you say 'hello' in Spanish?,0
+"Write a short story about a character who discovers a hidden world, exploring themes of identity and belonging",1
+What is the definition of photosynthesis?,0
+Derive the equation for the area of a circle using calculus and provide a step-by-step explanation,1
+What is the current weather like?,0
+"Develop a mobile application to track personal fitness goals, incorporating data visualization and machine learning-based recommendations",1
+What is the largest planet in our solar system?,0
+"Analyze the historical context and literary significance of James Joyce's Ulysses, exploring themes of modernism andstream-of-consciousness narrative",1
+How do you make a grilled cheese sandwich?,0
+"Design a cryptocurrency trading platform, incorporating security measures and real-time market analysis",1
+What is the chemical symbol for gold?,0
+"Create a 3D model of a futuristic cityscape, incorporating sustainable architecture and innovative transportation systems",1
+What is the definition of gravity?,0
+"Develop a natural language processing system to generate human-like conversation, incorporating contextual understanding and emotional intelligence",1
+How do you say 'goodbye' in French?,0
+"Write a script for a short film about a character who overcomes a personal struggle, exploring themes of resilience and redemption",1
+What is the largest living species of lizard?,0
+"Design a renewable energy system to power a small town, incorporating solar, wind, and hydroelectric power generation",1
+What is the definition of entropy?,0
+"Develop a predictive model to forecast population growth, incorporating demographic and economic factors",1
+How do you make a cup of coffee?,0
+"Create a virtual reality experience to simulate a historical event, incorporating immersive storytelling and interactive elements",1
+What is the smallest country in the world?,0
+"Analyze the economic implications of a global minimum wage, incorporating macroeconomic modeling and policy analysis",1
+What is the definition of biodiversity?,0
+"Develop a machine learning-based system to diagnose and treat mental health disorders, incorporating personalized therapy and support",1
+How do you say 'thank you' in Chinese?,0
+"Write a research paper on the impact of climate change on global food systems, incorporating data analysis and policy recommendations",1
+What is the largest desert in the world?,0
+"Design a sustainable urban planning system, incorporating green spaces, public transportation, and energy-efficient infrastructure",1
+What is the definition of dark matter?,0
+"Develop a cybersecurity framework to protect against advanced threats, incorporating AI-powered threat detection and incident response",1
+How do you make a salad?,0
+"Create a virtual reality experience to simulate a scientific experiment, incorporating interactive elements and real-time data analysis",1
+What is the definition of artificial intelligence?,0
+"Develop a predictive model to forecast stock prices, incorporating technical analysis and machine learning algorithms",1
+What is the largest mountain range in the world?,0
+"Analyze the cultural significance of a historical artwork, incorporating art historical context and critical theory",1
+How do you say 'yes' in German?,0
+"Write a script for a podcast on a scientific topic, incorporating engaging storytelling and expert interviews",1
+What is the definition of a black hole?,0
+"Develop a system to monitor and respond to natural disasters, incorporating real-time data analysis and emergency response planning",1
+What is the capital of France?,0
+Explain the concept of relativity in physics,1
+"Hello, how are you?",0
+Generate a comprehensive business plan for a startup in the renewable energy sector,1
+What is the definition of 'hypertension'?,0
+Design a neural network architecture for image classification tasks,1
+Translate 'hello' from English to Spanish,0
+Analyze the themes and motifs in Shakespeare's 'Romeo and Juliet',1
+What is the chemical formula for water?,0
+Develop a detailed marketing strategy for a new product launch,1
+Write a short poem about nature,0
+Create a 3D model of a futuristic city using Blender,1
+What is the largest planet in our solar system?,0
+Discuss the implications of the fourth amendment on digital privacy,1
+Calculate the area of a circle with radius 5cm,0
+Implement a secure authentication system using OAuth and JWT,1
+What is the recommended daily intake of fiber?,0
+Conduct a thorough analysis of the global economic trends and predict future market fluctuations,1
+Write a basic 'Hello World' program in Python,0
+Design and optimize a database schema for a large e-commerce platform,1
+What is the definition of 'artificial intelligence'?,0
+Develop a comprehensive plan for reducing carbon emissions in a large city,1
+Translate 'goodbye' from English to German,0
+Create a realistic special effect for a sci-fi movie using CGI,1
+What is the process of mitosis?,0
+Discuss the ethical implications of using AI in the healthcare industry,1
+Calculate the volume of a rectangular prism,0
+Implement a real-time object detection system using computer vision,1
+What is the definition of 'Blockchain'?,0
+Develop a detailed plan for a cybersecurity incident response,1
+Write a short story about a character who discovers a hidden world,0
+Design and optimize a algorithm for solving the traveling salesman problem,1
+What is the largest living species of lizard?,0
+Analyze the social and cultural impact of social media on modern society,1
+Calculate the surface area of a sphere,0
+Implement a natural language processing system for sentiment analysis,1
+What is the recommended treatment for a broken arm?,0
+Develop a comprehensive plan for disaster recovery and business continuity,1
+Translate 'thank you' from English to French,0
+Create a 3D printed prototype of a prosthetic limb,1
+What is the definition of 'machine learning'?,0
+Discuss the implications of the general data protection regulation on businesses,1
+Calculate the circumference of a circle,0
+Implement a secure payment gateway using SSL and TLS,1
+What is the process of photosynthesis?,0
+Develop a detailed plan for a marketing campaign using social media and influencer marketing,1
+Write a poem about love and heartbreak,0
+Design and optimize a system for real-time video streaming,1
+What is the largest mammal on Earth?,0
+Analyze the economic and social impact of climate change on global food systems,1
+Calculate the area of a triangle,0
+Implement a recommendation system using collaborative filtering,1
+"Hello, how are you?",0
+Explain the concept of quantum entanglement in physics,1
+What is the largest planet in our solar system?,0
+Write a Python script to automate a web browser using Selenium,1
+What is the recommended daily intake of vitamin D?,0
+Analyze the themes of existentialism in Albert Camus' 'The Stranger',1
+How do you say 'hello' in Spanish?,0
+Derive the equation for the area of a circle using calculus,1
+What are the symptoms of diabetes?,0
+Create a legal contract for a software development agreement,1
+Write a short poem about nature,0
+Design a machine learning model to predict stock prices using TensorFlow,1
+What is the capital of France?,0
+Explain the concept of blockchain technology and its applications,1
+How do you calculate the tip at a restaurant?,0
+Develop a treatment plan for a patient with chronic back pain,1
+What is the definition of artificial intelligence?,0
+Write a Java program to implement a binary search algorithm,1
+What are the benefits of meditation?,0
+Conduct a statistical analysis of a dataset using R programming language,1
+How do you say 'goodbye' in French?,0
+Create a 3D model of a building using Blender,1
+What is the largest living species of lizard?,0
+Design a database schema for a social media platform using MySQL,1
+Write a short story about a character who learns a new skill,0
+Explain the concept of supply and demand in economics,1
+What is the chemical symbol for gold?,0
+Develop a marketing strategy for a new product launch,1
+How do you calculate the area of a triangle?,0
+Create a mobile app for tracking personal fitness using React Native,1
+What is the definition of climate change?,0
+Analyze the characters in a Shakespearean play,1
+What is the largest city in the world by population?,0
+Design a neural network to recognize handwritten digits using PyTorch,1
+How do you say 'thank you' in German?,0
+Develop a business plan for a startup company,1
+What is the scientific method?,0
+Create a virtual reality experience using Unity,1
+What is the definition of a black hole?,0
+Explain the concept of relativity in physics,1
+How do you calculate the volume of a sphere?,0
+Design a cybersecurity system to protect against hacking attacks,1
+What is the definition of a pandemic?,0
+Develop a treatment plan for a patient with a rare disease,1
+What is the chemical symbol for silver?,0
+Create a data visualization dashboard using Tableau,1
+How do you say 'yes' in Italian?,0
+Analyze the impact of social media on mental health,1
+What is the definition of a hurricane?,0
+Design a system for predicting weather patterns using machine learning,1
+What is the largest mammal on Earth?,0
+Develop a plan for reducing carbon emissions,1
+How do you calculate the circumference of a circle?,0
+Create a chatbot using natural language processing,1
+What is the definition of a volcano?,0
+Explain the concept of evolution in biology,1
+"Hello, how are you?",0
+Develop an AI-powered chatbot for customer support using Python and TensorFlow,1
+What is the capital of France?,0
+Explain the concept of blockchain technology and its applications in supply chain management,1
+Can you translate 'hello' to Spanish?,0
+Design a database schema for an e-commerce platform using MySQL and MongoDB,1
+What is the definition of diabetes?,0
+Analyze the impact of climate change on global food production and propose potential solutions,1
+Write a short poem about love,0
+Implement a neural network model for image classification using Keras and TensorFlow,1
+What are the symptoms of COVID-19?,0
+Develop a predictive model for stock market trends using historical data and machine learning algorithms,1
+Can you recommend a good restaurant?,0
+Explain the concept of intellectual property law and its importance in the digital age,1
+What is the formula for calculating the area of a circle?,0
+Design a cybersecurity framework for protecting sensitive data in a cloud-based environment,1
+Can you summarize the plot of 'To Kill a Mockingbird'?,0
+Develop a natural language processing model for sentiment analysis using NLTK and spaCy,1
+What is the definition of artificial intelligence?,0
+Analyze the impact of social media on mental health and propose potential interventions,1
+Can you write a joke about programming?,0
+Implement a recommender system for personalized product suggestions using collaborative filtering,1
+What is the chemical formula for water?,0
+Develop a machine learning model for predicting patient outcomes in medical diagnosis,1
+Can you explain the concept of entropy?,0
+Design a data visualization dashboard for displaying real-time analytics using Tableau and Power BI,1
+What is the definition of a black hole?,0
+Analyze the impact of renewable energy on the environment and propose potential solutions for increased adoption,1
+Can you translate 'goodbye' to French?,0
+Develop a computer vision model for object detection using OpenCV and YOLO,1
+What is the definition of a neuron?,0
+Explain the concept of quantum computing and its potential applications,1
+Can you summarize the plot of 'The Great Gatsby'?,0
+Implement a text generation model for creating realistic dialogue using Markov chains,1
+What is the definition of photosynthesis?,0
+Design a network architecture for a self-driving car using computer vision and sensor data,1
+Can you recommend a good book on machine learning?,0
+Develop a predictive model for forecasting weather patterns using historical climate data,1
+What is the definition of a genetic algorithm?,0
+Analyze the impact of e-commerce on local businesses and propose potential solutions for increased competitiveness,1
+Can you explain the concept of probability?,0
+Implement a speech recognition model for transcribing audio recordings using DeepSpeech,1
+What is the definition of a blockchain transaction?,0
+Develop a machine learning model for detecting credit card fraud using transaction data,1
+Can you write a poem about nature?,0
+Design a human-computer interface for a virtual reality environment using Unity and C#,1
+What is the definition of a database query?,0
+Explain the concept of fuzzy logic and its applications in control systems,1
+Can you translate 'thank you' to German?,0
+Implement a reinforcement learning model for optimizing game playing agents using Q-learning,1
+What is the definition of a fractal?,0
+Develop a data mining model for discovering patterns in customer behavior using clustering algorithms,1
+What's the weather like today?,0
+Explain the concept of relativity in physics,1
+"Hello, how are you?",0
+Write a Python program to solve the traveling salesman problem,1
+What's the definition of photosynthesis?,0
+Create a legal contract for a rental agreement between two parties,1
+How do you say 'hello' in Spanish?,0
+Design a neural network architecture for image classification,1
+What's the capital of France?,0
+Develop a treatment plan for a patient with diabetes,1
+Write a short poem about love,0
+Analyze the impact of climate change on global economies,1
+What's the difference between a hypothesis and a theory?,0
+Derive the equation for the area of a circle using calculus,1
+How do you calculate the tip at a restaurant?,0
+Create a database schema for a e-commerce website,1
+What's the definition of mitosis?,0
+Develop a marketing strategy for a new product launch,1
+Write a Java program to implement a binary search tree,1
+What's the largest planet in our solar system?,0
+Explain the concept of blockchain technology,1
+How do you say 'goodbye' in French?,0
+Design an algorithm for solving the knapsack problem,1
+What's the definition of entropy?,0
+Create a financial model for a startup company,1
+Write a C++ program to implement a stack data structure,1
+What's the capital of Japan?,0
+Analyze the themes in a novel by Jane Austen,1
+How do you calculate the area of a triangle?,0
+Develop a plan for a charity event to raise money for a local hospital,1
+What's the definition of osmosis?,0
+Create a mobile app for tracking personal fitness goals,1
+Write a short story about a character who learns a new skill,1
+What's the largest mammal on Earth?,0
+Explain the concept of quantum mechanics,1
+How do you say 'thank you' in German?,0

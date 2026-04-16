@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+groq
+ollama
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+sse-starlette
+tiktoken
+python-dotenv
+supabase
+onnxruntime
+transformers
+httpx
+numpy
+deepeval
