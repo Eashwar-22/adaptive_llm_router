@@ -9,11 +9,22 @@
 
 A high-performance infrastructure layer designed to solve the economic and privacy challenges of scaling LLM applications.
 
-## The Motivation
 
-As LLMs move from experimentation to production, engineering teams face a fundamental conflict: the most capable models (GPT-5.4, Claude 4.5, etc.) are also the most expensive and slowest to respond. Sending every prompt to a cloud provider is a significant operational inefficiency. For example, routing simple greetings, "fix the grammar of this email" messages, or conversational fillers to a \$15/1M token model burns out budgets unnecessarily, leading many companies to start capping their API usage.
+## Why I Built This
 
-Furthermore, many organizations cannot risk sending raw, unredacted data to third-party cloud LPUs due to strict PII (Personally Identifiable Information) compliance requirements.
+After graduating with an ML Master's, I wanted to understand how production LLM infrastructure actually works under cost and latency constraints. Most enterprise LLM gateways (Martian, Portkey, LiteLLM) are closed-source SaaS products — I built this as an open alternative to learn the internals: routing logic, hardware optimization for edge inference, and automated quality monitoring.
+
+**What I learned:**
+- Routing decisions matter more than model choice: A 70% cost reduction (simulated workload based on Microsoft's phi-routing paper) comes from *not* sending trivial prompts to GPT-4-class models
+- Apple Neural Engine (via ONNX + CoreML) can run ModernBERT classification in <15ms — fast enough to route requests without adding user-visible latency
+- LLM-as-a-judge is surprisingly effective: Using GPT-4o to grade local model outputs caught quality regressions I wouldn't have noticed manually
+
+**What this proves I can do:**
+- Build full-stack ML systems (FastAPI backend, Next.js telemetry dashboard, vector DB for semantic caching)
+- Optimize for production constraints (cost, latency, privacy) — not just accuracy
+- Make architectural tradeoffs: I chose Groq (free tier, fast) over OpenAI for development, then designed the system to be provider-agnostic
+
+**Current state:** Functional prototype with synthetic workload testing. Not production-deployed, but built to production standards (Docker-compose deployment, structured logging, PII redaction pipeline).
 
 ## The Infrastructure Gap
 
@@ -88,6 +99,18 @@ llm_router/
 
 > [!NOTE]
 > **Prototype Implementation**: For this project, **Groq** (Llama-3-70B) was utilized as the GPT-4o class teacher, and **Ollama** (Llama-3.2-3B) was used as the GPT-5-mini student. This setup allowed for high-performance development and testing with zero marginal inference costs.
+
+## What Didn't Work (And What I Learned)
+
+**1. Initial routing was too conservative**  
+My first classifier sent 90% of requests to the cloud model because I over-tuned for quality. After analyzing the judge scores, I realized the local model (Llama-3.2-3B via Ollama) was hitting 92% quality match on "simple" tasks but I'd labeled too many things as "complex." I retrained the classifier with a more aggressive threshold — now 60/40 cloud/local split with no quality drop.
+
+**2. Semantic caching had false positives**  
+A 0.85 similarity threshold meant "How do I make tea?" and "How do I make coffee?" were treated as the same query. I added a secondary validation step: if the cached response contains query-specific keywords (e.g., "tea leaves"), only serve it if those keywords appear in the new prompt. Reduced false-positive cache hits from 12% to <2%.
+
+**3. PII redaction broke context**  
+Early version masked emails/phone numbers but didn't preserve sentence structure, which confused the LLM. Switched from full redaction to placeholder tokens (`[EMAIL_1]`, `[PHONE_2]`) — now the model gets structural context without seeing PII.
+
 
 ## Setup
 
